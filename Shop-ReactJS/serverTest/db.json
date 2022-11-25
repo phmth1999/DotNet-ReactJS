@@ -1,0 +1,139 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "admin",
+      "password": "admin",
+      "fullname": "",
+      "email": "admin@gmail.com",
+      "sdt": "0337796445",
+      "ngaysinh": "14-02-1998",
+      "address": "Phường 06, Linh Trung, Thủ Đức, TP Hồ Chí Minh",
+      "role": "admin"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Iphone 1",
+      "image": "./../img/spdemo.png",
+      "price": 1000
+    },
+    {
+      "id": 2,
+      "name": "Iphone 2",
+      "image": "./../img/spdemo.png",
+      "price": 1000
+    },
+    {
+      "id": 3,
+      "name": "Iphone 3",
+      "image": "./../img/spdemo.png",
+      "price": 1000
+    },
+    {
+      "id": 4,
+      "name": "Iphone 4",
+      "image": "./../img/spdemo.png",
+      "price": 1000
+    },
+    {
+      "id": 5,
+      "name": "Iphone 5",
+      "image": "./../img/spdemo.png",
+      "price": 1000
+    },
+    {
+      "id": 6,
+      "name": "Iphone 6",
+      "image": "./../img/spdemo.png",
+      "price": 1000
+    },
+    {
+      "id": 7,
+      "name": "Iphone 7",
+      "image": "./../img/spdemo.png",
+      "price": 1000
+    },
+    {
+      "id": 8,
+      "name": "Iphone 8",
+      "image": "./../img/spdemo.png",
+      "price": 1000
+    },
+    {
+      "id": 9,
+      "name": "Iphone 9",
+      "image": "./../img/spdemo.png",
+      "price": 1000
+    },
+    {
+      "id": 10,
+      "name": "Iphone 10",
+      "image": "./../img/spdemo.png",
+      "price": 1000
+    },
+    {
+      "id": 11,
+      "name": "Iphone 11",
+      "image": "./../img/spdemo.png",
+      "price": 1000
+    },
+    {
+      "id": 12,
+      "name": "Iphone 12",
+      "image": "./../img/spdemo.png",
+      "price": 1000
+    },
+    {
+      "id": 13,
+      "name": "Iphone 13",
+      "image": "./../img/spdemo.png",
+      "price": 1000
+    },
+    {
+      "id": 14,
+      "name": "Iphone 14",
+      "image": "./../img/spdemo.png",
+      "price": 1000
+    },
+    {
+      "id": 15,
+      "name": "Iphone 15",
+      "image": "./../img/spdemo.png",
+      "price": 1000
+    }
+  ],
+  "cart": [
+    {
+      "product": {
+        "id": 8,
+        "name": "Iphone 8",
+        "image": "./../img/spdemo.png",
+        "price": 1000,
+      "quanlity": 1
+      },
+      "id": 1
+    },
+    {
+      "product": {
+        "id": 9,
+        "name": "Iphone 9",
+        "image": "./../img/spdemo.png",
+        "price": 1000,
+      "quanlity": 1
+      },
+      "id": 2
+    },
+    {
+      "product": {
+        "id": 10,
+        "name": "Iphone 10",
+        "image": "./../img/spdemo.png",
+        "price": 1000,
+      "quanlity": 1
+      },
+      "id": 3
+    }
+  ]
+}
